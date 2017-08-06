@@ -1,0 +1,4 @@
+AuthName "Page d'administration protégée"
+AuthType Basic
+AuthUserFile "D:\wamp\www\JqueryMobile\Admin\.htaccess"
+Require valid-user
